@@ -12,9 +12,9 @@
 
 export const environment = {
   production: false,
-  envName: 'DEV',
-  restServ_domain: 'http://127.0.0.1:9999',
-  websocket_domain: 'ws://127.0.0.1:9999'
+  // envName: 'DEV',
+  // restServ_domain: 'http://127.0.0.1:9999',
+  // websocket_domain: 'ws://127.0.0.1:9999'
 };
 
 /*
